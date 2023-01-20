@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213871993776",
+    "project_id": "umer-firebase",
+    "storage_bucket": "umer-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213871993776:android:ca311f5adecb90a5cd6c75",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213871993776-repb472efiuqm4gt2bmgdv998bjsq6ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNQuUXRlfq5zTQXVg5Fpz4DLLxbjM958"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213871993776-repb472efiuqm4gt2bmgdv998bjsq6ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
